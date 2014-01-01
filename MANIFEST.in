@@ -1,0 +1,8 @@
+include README
+include COPYING
+include MANIFEST.in
+include setup.py
+recursive-include cagraph *.py
+recursive-include examples *.py
+recursive-include examples *.glade
+

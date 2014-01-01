@@ -1,0 +1,8 @@
+cagraph
+-------
+
+A PyGTK widget for ploting charts and graphs using python, gtk and cairo.
+
+Authors: 
+Yaacov Zamir (2011) <kobi.zamir@gmail.com>
+Nah, Chong Yeol (2011) <nahchongyeol@gmail.com>
