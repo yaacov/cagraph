@@ -13,7 +13,7 @@ A PyGTK widget for ploting charts and graphs using python, gtk and cairo
 
 * example2: default area and bar chart, force Y axis to start at y = 0
 
-<img src="https://raw.github.com/yaacov/cagraph/master/examples/example1.png" width="300" height="300" >
+<img src="https://raw.github.com/yaacov/cagraph/master/examples/example2.png" width="300" height="300" >
 
 [example2.py](http://code.google.com/p/cagraph/source/browse/examples/example2.py)
 
