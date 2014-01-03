@@ -15,5 +15,5 @@ A PyGTK widget for ploting charts and graphs using python, gtk and cairo
 
 <img src="https://raw.github.com/yaacov/cagraph/master/examples/example2.png" width="300" height="300" >
 
-[example2.py](https://github.com/yaacov/cagraph/blob/master/examples/example2.py
+[example2.py](https://github.com/yaacov/cagraph/blob/master/examples/example2.py)
 
